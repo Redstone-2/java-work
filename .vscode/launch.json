@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "exponentian_mod",
+            "request": "launch",
+            "mainClass": "exponentian_mod",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "Cardrun",
+            "request": "launch",
+            "mainClass": "Cardrun",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "CardTable",
+            "request": "launch",
+            "mainClass": "CardTable",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "riddles",
+            "request": "launch",
+            "mainClass": "riddles",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "toolboxPen.main",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "Battleship",
+            "request": "launch",
+            "mainClass": "Battleship",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "MyPollyPractice",
+            "request": "launch",
+            "mainClass": "MyPollyPractice",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "thebigint",
+            "request": "launch",
+            "mainClass": "thebigint",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "SpellCheckRunner",
+            "request": "launch",
+            "mainClass": "SpellCheckRunner",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "IntBig",
+            "request": "launch",
+            "mainClass": "IntBig",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "SquareRunner",
+            "request": "launch",
+            "mainClass": "SquareRunner",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "IntBigRunner",
+            "request": "launch",
+            "mainClass": "IntBigRunner",
+            "projectName": "Java_76454ca7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayExercises",
+            "request": "launch",
+            "mainClass": "ArrayExercises",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConditionalsAndLogicExercises",
+            "request": "launch",
+            "mainClass": "ConditionalsAndLogicExercises",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberGuessConform",
+            "request": "launch",
+            "mainClass": "NumberGuessConform",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Picture",
+            "request": "launch",
+            "mainClass": "Picture",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReviewTest",
+            "request": "launch",
+            "mainClass": "ReviewTest",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Turtle",
+            "request": "launch",
+            "mainClass": "Turtle",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TurtleTest",
+            "request": "launch",
+            "mainClass": "TurtleTest",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch anglecalculator",
+            "request": "launch",
+            "mainClass": "anglecalculator",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch calpi",
+            "request": "launch",
+            "mainClass": "calpi",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch gametime",
+            "request": "launch",
+            "mainClass": "gametime",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch loopsPractice",
+            "request": "launch",
+            "mainClass": "loopsPractice",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch madlibs",
+            "request": "launch",
+            "mainClass": "madlibs",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch numberguesser",
+            "request": "launch",
+            "mainClass": "numberguesser",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch objectpractice",
+            "request": "launch",
+            "mainClass": "objectpractice",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch quiz",
+            "request": "launch",
+            "mainClass": "quiz",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch scratchwork",
+            "request": "launch",
+            "mainClass": "scratchwork",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch smallgroup",
+            "request": "launch",
+            "mainClass": "smallgroup",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Java_39e7a8f3"
+        },
+        {
+            "type": "java",
+            "name": "Launch testone",
+            "request": "launch",
+            "mainClass": "testone",
+            "projectName": "Java_39e7a8f3"
+        }
+    ]
+}

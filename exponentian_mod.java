@@ -12,7 +12,7 @@ public class exponentian_mod {
         String inphrase = "Carthago delenda est";
         System.out.println("6: "+ASCII_to_10(inphrase));
 
-        System.out.println(new BigInteger("9293").modInverse(new BigInteger("22576")));
+        System.out.println(new BigInteger("374413471625854958269706803072259202131399386829497836277471117216044734280924224462969371").modInverse(new BigInteger("537139360602477525125655043677356597740672426915294213641576278281056255413159907490742601073750350").multiply(new BigInteger("76921421106760125285550929240903354966370431827792714920086011488103952094969175731459908117375995349245839342"))));
 
         //n-moudlus, e-encryption exponent, c-cyphertext, p-plaintext, Private: n = p * q, d=e^-1(mod phi(n))-decryption exponent
         //c^d = p^e^d = p^ed = p^1 = p(mod n)
